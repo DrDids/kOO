@@ -10,9 +10,9 @@ for the preparation of the papers I published in CaGEO and TGIS (see below).
 Basically this is related to the computation of the distribution of k co-occurrences of spatial events 
 (generalising the contiguity distributions - 2 co-occurrences at distance 0) to derive 
 spatial clustering statistics (mainly using the Shannon entropy, then called the k-spatial entropy) 
-and methods linked to this SOOk, SelSOOk (caGEo paper) and scankOO (TGIS).
-Another method just performing the k-Correspondence Analysis (i.e. on a multiway table with k entries) has been
-already "published in my JSS paper about another R package: PTAk.
+and methods linked to this: SOOk, SelSOOk (see caGEO paper) and scankOO (see TGIS).
+Another method (CAkOO) performing a k-Correspondence Analysis (i.e. on a multiway table with k entries) on 
+the contingencies of co-occurrenceshas been already "published in my JSS paper about another R package: PTAk.
 
 - At the moment the basic scripts I have are based on points and use the R package spatstat, but I would like also 
 to extend to any geometry type.
