@@ -17,6 +17,9 @@ the contingencies of co-occurrenceshas been already "published in my JSS paper a
 - At the moment the basic scripts I have are based on points and use the R package spatstat, but I would like also 
 to extend to any geometry type.
 
+Interested to collaborate on this?
+===
+
 Some details in: 
 ===
 
