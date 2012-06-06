@@ -15,7 +15,7 @@ Another method (CAkOO) performing a k-Correspondence Analysis (i.e. on a multiwa
 the contingencies of co-occurrenceshas been already "published in my JSS paper about another R package: PTAk.
 
 - At the moment the basic scripts I have are based on points and use the R package spatstat, but I would like also 
-to extend to any geometry type.
+to extend to any geometry type. So from all this "a plan" has first to be drawn! ...
 
 - keywords: spatial point pattern, spatial pattern, geometric objects, co-occurrences, k-spatial entropy, 
 Ripley's K, regression tree, conditional entropy, spatial clustering, scan statistis, GAM, ...
